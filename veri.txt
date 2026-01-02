@@ -6,7 +6,7 @@ def topla(a,b):
 def cikar(a,b)
   returen a-b
 
-def car(a,b)
+def carpma(a,b)
   return a*b
 
 
