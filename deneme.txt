@@ -13,3 +13,6 @@ def eski():
 
 def new():
   print ("bu fonksiyon masterden")
+
+def old():
+  print("bu fonksiyon featuredan eklendi")
