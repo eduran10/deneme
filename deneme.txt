@@ -10,3 +10,14 @@ def yeni():
 
 def eski():
   print("bu fonkdsiyon featuredan eklendi"
+
+
+
+
+
+
+
+
+
+def old():
+  print("bu fonksiyon featuredan eklendi")
