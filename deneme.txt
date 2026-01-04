@@ -10,3 +10,6 @@ def yeni():
 
 def eski():
   print("bu fonkdsiyon featuredan eklendi"
+
+def new():
+  print ("bu fonksiyon masterden")
