@@ -12,7 +12,7 @@ def eski():
   print("bu fonkdsiyon featuredan eklendi"
 
 
-
+bu satır ek özelliketen
 
 
 this is from featuredan
