@@ -21,3 +21,7 @@ this is from featuredan
 
 def old():
   print("bu fonksiyon featuredan eklendi")
+
+
+bu satır en sonda featuredan
+
