@@ -4,5 +4,9 @@ def cikar(a,b):
   return a-b
 def carp(a,b):
   return a*b
+
 def yeni():
   return "bu fonksiyon masterden"
+
+def eski():
+  print("bu fonkdsiyon featuredan eklendi"
