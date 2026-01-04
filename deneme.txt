@@ -1,3 +1,4 @@
+enbaşa masternda ilk satır
 masterndan en başa satır
 
 def topla(a,b):
