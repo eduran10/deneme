@@ -18,6 +18,7 @@ def new():
 
 this line is from master.........
 
+bu satır ek özelliketen
 
 
 this is from featuredan
